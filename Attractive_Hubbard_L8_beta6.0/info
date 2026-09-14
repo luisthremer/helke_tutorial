@@ -1,0 +1,75 @@
+ START TIME: 2026-09-14T19:18:25.452+02:00
+ =====================================
+ Model is      : Hubbard                                                         
+ Lattice is    : Square                                                          
+ # unit cells  :           64
+ # of orbitals :            1
+ Flux_1        :    0.0000000000000000     
+ Flux_2        :    0.0000000000000000     
+ Twist as phase factor in bulk
+ HS  couples to z-component of spin
+ Checkerboard  :  F
+ Symm. decomp  :  T
+ Finite temperture version
+ Beta          :    6.0000000000000000     
+ dtau,Ltrot_eff:   0.10000000000000001               60
+ N_SUN         :            2
+ N_FL          :            2
+ t             :    1.0000000000000000     
+ Ham_U         :   -4.0000000000000000     
+ Ham_chem      :    0.0000000000000000     
+ No initial configuration, Seed_in      790789
+ Sweeps                              :           10
+ Bins                                :          100
+ No CPU-time limitation 
+ Measure Int.                        :            1          60
+ Stabilization,Wrap                  :           10
+ Nstm                                :            6
+ Ltau                                :            1
+ # of interacting Ops per time slice :           64
+ Default sequential updating 
+ This executable represents commit 4b5fcac7 of branch luis_local.
+  Precision Green  Mean, Max :    1.8780953544808491E-014   3.4657490544269913E-011
+  Precision Phase, Max       :    3.6415315207705135E-014
+  Precision tau    Mean, Max :    6.4538046276293073E-015   3.1929131266905667E-012
+  Acceptance                 :   0.34960638020833334     
+  Effective Acceptance       :   0.34960638020833334     
+  CPU Time                   :    180.68828800000000     
+ FIN TIME: 2026-09-14T19:21:26.185+02:00
+ START TIME: 2026-09-14T19:33:59.501+02:00
+ =====================================
+ Model is      : Hubbard                                                         
+ Lattice is    : Square                                                          
+ # unit cells  :           64
+ # of orbitals :            1
+ Flux_1        :    0.0000000000000000     
+ Flux_2        :    0.0000000000000000     
+ Twist as phase factor in bulk
+ HS  couples to z-component of spin
+ Checkerboard  :  F
+ Symm. decomp  :  T
+ Finite temperture version
+ Beta          :    6.0000000000000000     
+ dtau,Ltrot_eff:   0.10000000000000001               60
+ N_SUN         :            2
+ N_FL          :            2
+ t             :    1.0000000000000000     
+ Ham_U         :   -4.0000000000000000     
+ Ham_chem      :    0.0000000000000000     
+ Sweeps                              :           10
+ Bins                                :          100
+ No CPU-time limitation 
+ Measure Int.                        :            1          60
+ Stabilization,Wrap                  :           10
+ Nstm                                :            6
+ Ltau                                :            1
+ # of interacting Ops per time slice :           64
+ Default sequential updating 
+ This executable represents commit f81b5cbc-dirty of branch master.
+  Precision Green  Mean, Max :    1.9237997777147784E-014   6.8140475238444472E-011
+  Precision Phase, Max       :    3.8191672047105385E-014
+  Precision tau    Mean, Max :    5.8177745836500821E-015   3.2615533327446071E-013
+  Acceptance                 :   0.34924283854166666     
+  Effective Acceptance       :   0.34924283854166666     
+  CPU Time                   :    184.61815999999999     
+ FIN TIME: 2026-09-14T19:37:04.163+02:00
