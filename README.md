@@ -1,1 +1,0 @@
-# helke_tutorial
